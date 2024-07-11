@@ -71,10 +71,10 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    title: "AI-Based Text Summarizer",
+    des: "Simplify content with our React dashboard. Input URLs, get AI summaries via RapidAPI, and manage your article history.",
+    img: "/project1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg","aceternity.jpg"],
     link: "/ui.earth.com",
   },
   {
