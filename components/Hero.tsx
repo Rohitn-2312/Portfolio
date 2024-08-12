@@ -32,7 +32,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-            Hi, I'm Rohit , a Next.js Developer based in India
+            Hi, I&apos;m Rohit , a Next.js Developer based in India
           </p>
 
           <a href="#about">
