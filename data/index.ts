@@ -73,7 +73,7 @@ export const projects = [
     id: 1,
     title: "PayGo: Streamlined Digital Payment Platform",
     des: "A digital payment platform with secure authentication, real time balance updates and money transfers. ",
-    img: "/project2.png",
+    img: "/paygo.png",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "/https://pay-go-main.vercel.app/",
   },
