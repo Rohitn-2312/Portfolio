@@ -71,6 +71,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "PayGo: Streamlined Digital Payment Platform",
+    des: "A digital payment platform with secure authentication, real time balance updates and money transfers. ",
+    img: "/project2.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "/https://pay-go-main.vercel.app/",
+  },
+  {
+    id: 2,
     title: "AI-Based Text Summarizer",
     des: "Simplify content with our React dashboard. Input URLs, get AI summaries via RapidAPI, and manage your article history.",
     img: "/project1.png",
@@ -78,21 +86,14 @@ export const projects = [
     link: "/text-summarizer-snowy.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "HackJunction- Organise Hackathon with Ease",
     des: "A platform to help you plan, manage, and execute successful hackathon events.",
     img: "/project2.png",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "/hack-junction.vercel.app/",
   },
-  {
-    id: 3,
-    title: "CitySync - Your Gateway to Smarter City Living!",
-    des: "CitySync promotes smart cities by showcasing the CitySync app, empowering residents, enhancing community engagement, and fostering urban connectivity.",
-    img: "/project3.png",
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "/ui.aiimg.com",
-  },
+  
   {
     id: 4,
     title: "Skinline-AI: AI-Powered Skin Disease Analysis",
